@@ -1,7 +1,7 @@
 import React from "react";
-
+import { Lights } from "./Lights";
 //include images into your bundle
-import rigoImage from "../../img/rigo-baby.jpg";
+
 import city from "../../img/city.png";
 
 //create your first component
@@ -17,6 +17,12 @@ export function Home() {
 				Your browser does not support the video tag{" "}
 			</video>
 			<img className="city" src={city} />
+			<div className="windows">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
 			<h4 className="wordCarousel">
 				<span>Happy New </span>
 				<div>
