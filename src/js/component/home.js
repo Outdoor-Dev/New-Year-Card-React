@@ -17,6 +17,7 @@ export function Home() {
 				Your browser does not support the video tag{" "}
 			</video>
 			<img className="city" src={city} />
+
 			<div className="tallBuilding1">
 				<Lights />
 				<Lights />
@@ -37,25 +38,43 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<div className="squareBuilding1">
+			<div className="squareBuilding">
 				<Lights />
 				<Lights />
 				<Lights />
 				<Lights />
 			</div>
-			<div className="squareBuilding2">
+			<div className="squareBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="squareBuilding">
 				<Lights />
 				<Lights />
 				<Lights />
 				<Lights />
 			</div>
-			<div className="squareBuilding3">
+			<div className="squareBuilding">
+				<Lights />
 				<Lights />
 				<Lights />
 				<Lights />
 				<Lights />
 			</div>
-			<div className="squareBuilding4">
+			<div className="squareBuilding">
+				<Lights />
+
+				<Lights />
+				<Lights />
+			</div>
+			<div className="squareBuilding">
+				<Lights />
+
+				<Lights />
+				<Lights />
+			</div>
+			<div className="squareBuilding">
 				<Lights />
 				<Lights />
 				<Lights />
@@ -63,6 +82,7 @@ export function Home() {
 			</div>
 
 			<div className="buildingMiddle1">
+				<Lights />
 				<Lights />
 				<Lights />
 				<Lights />
@@ -97,13 +117,8 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingRight1">
-				<Lights />
-				<Lights />
-				<Lights />
-				<Lights />
-			</div>
-			<div className="buildingRight2">
+
+			<div className="buildingRight">
 				<Lights />
 				<Lights />
 				<Lights />
@@ -113,7 +128,7 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingRight3">
+			<div className="buildingRight">
 				<Lights />
 				<Lights />
 				<Lights />
@@ -123,8 +138,15 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingRight4">
+			<div className="buildingRight">
 				<Lights />
+
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight">
 				<Lights />
 				<Lights />
 				<Lights />
@@ -133,22 +155,46 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingLast1">
+			<div className="buildingRight">
+				<Lights />
+				<Lights />
+
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight">
+				<Lights />
+				<Lights />
+
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+
+			<div className="buildingLast">
 				<Lights />
 				<Lights />
 
 				<Lights />
 			</div>
-			<div className="buildingLast2">
+			<div className="buildingLast">
 				<Lights />
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingLast3">
+			<div className="buildingLast">
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingLast4">
+			<div className="buildingLast">
 				<Lights />
 				<Lights />
 				<Lights />

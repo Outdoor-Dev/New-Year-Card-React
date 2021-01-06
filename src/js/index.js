@@ -8,10 +8,9 @@ import "bootstrap";
 //include your index.scss file into the bundle
 import "../styles/index.scss";
 import "../styles/tallBuilding.scss";
-import "../styles/squareBuilding.scss";
+
 import "../styles/buildingMidde.scss";
-import "../styles/buildingRight.scss";
-import "../styles/buildingLast.scss";
+
 //import your own components
 import { Home } from "./component/home.js";
 

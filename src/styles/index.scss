@@ -20,6 +20,30 @@ body{
     position:absolute;
     z-index:-30;
 }
+
+.squareBuilding{
+font-size:9px;
+letter-spacing: 26px;
+ position:relative; 
+ left:-153px; 
+ top:-420px
+}
+.buildingRight{
+    font-size:7px;
+letter-spacing: 20px;
+ position:relative; 
+ left:335px; 
+ top:-460px
+}
+.buildingLast{
+    font-size:5px;
+letter-spacing: 20px;
+ position:relative; 
+ left:620px; 
+ top:-500px;
+}
+
+
 /*.wordCarousel {
     font-size: 60px;
     font-weight: 100;
