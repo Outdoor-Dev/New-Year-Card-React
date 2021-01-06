@@ -17,7 +17,39 @@ export function Home() {
 				Your browser does not support the video tag{" "}
 			</video>
 			<img className="city" src={city} />
-			<div className="windows">
+			<div className="tallBuilding1">
+				<Lights />
+				<Lights />
+			</div>
+			<div className="tallBuilding2">
+				<Lights />
+				<Lights />
+			</div>
+			<div className="tallBuilding3">
+				<Lights />
+				<Lights />
+			</div>
+			<div className="tallBuilding4">
+				<Lights />
+				<Lights />
+			</div>
+			<div className="tallBuilding5">
+				<Lights />
+				<Lights />
+			</div>
+			<div className="squareBuilding1">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="squareBuilding2">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="squareBuilding3">
 				<Lights />
 				<Lights />
 				<Lights />
@@ -28,7 +60,7 @@ export function Home() {
 				<div>
 					<ul className="flip3">
 						<li>Year</li>
-						<li>Chances</li>
+						<li>Life</li>
 						<li>Luck</li>
 					</ul>
 				</div>
