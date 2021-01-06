@@ -7,12 +7,12 @@ export const Lights = () => {
 		let randomNumber = Math.floor(Math.random() * 2) + 1;
 		switch (randomNumber) {
 			case 1:
-				setLight("red");
-				return "red";
+				setLight("black");
+				return "black";
 
 			case 2:
-				setLight("green");
-				return "green";
+				setLight("yellow");
+				return "yellow";
 
 			default:
 				break;
