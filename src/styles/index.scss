@@ -21,25 +21,26 @@ body{
     z-index:-30;
 }
 .wordCarousel {
-    font-size: 36px;
+    font-size: 60px;
     font-weight: 600;
     color: #939393;
-    margin-top:-330px;
+    margin-top:-900px;
     float:center;
     margin-left:-180px;
+    -webkit-text-stroke: 3px black;
    
     div {
         overflow: hidden;
         position: relative;
         float: center;
-        margin-left:250px;
+        margin-left:430px;
        
         height: 65px;
         padding-top: 10px;
-        margin-top: -50px;
+        margin-top: -80px;
         li {
             font-family: Serif;
-            color: #ccc;
+            color:  black;
             font-weight: 700;
             padding: 0 10px;
             height: 45px;
