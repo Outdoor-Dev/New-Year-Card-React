@@ -55,16 +55,42 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<h4 className="wordCarousel">
-				<span>Happy New </span>
-				<div>
-					<ul className="flip3">
-						<li>Year</li>
-						<li>Life</li>
-						<li>Luck</li>
-					</ul>
-				</div>
-			</h4>
+			<div className="buildingMiddle1">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingMiddle2">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingMiddle3">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingMiddle4">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
 		</div>
 	);
 }

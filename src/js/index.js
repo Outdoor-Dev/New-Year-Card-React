@@ -9,6 +9,7 @@ import "bootstrap";
 import "../styles/index.scss";
 import "../styles/tallBuilding.scss";
 import "../styles/squareBuilding.scss";
+import "../styles/buildingMidde.scss";
 
 //import your own components
 import { Home } from "./component/home.js";
