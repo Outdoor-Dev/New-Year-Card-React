@@ -13,7 +13,7 @@ export function Home() {
 				autoPlay
 				loop
 				type="video/mp4"
-				src="https://v.ftcdn.net/02/76/08/40/700_F_276084056_KLAfY8LhyPAaMa2cip4ljPfaKnr2bU1m_ST.mp4">
+				src="https://v.ftcdn.net/03/25/20/43/700_F_325204332_DYwZk3cVEuwVBiwaEn4mKVS9g0ipoHys_ST.mp4">
 				Your browser does not support the video tag{" "}
 			</video>
 			<img className="city" src={city} />
@@ -55,8 +55,14 @@ export function Home() {
 				<Lights />
 				<Lights />
 			</div>
-			<div className="buildingMiddle1">
+			<div className="squareBuilding4">
 				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+
+			<div className="buildingMiddle1">
 				<Lights />
 				<Lights />
 				<Lights />
@@ -87,6 +93,62 @@ export function Home() {
 				<Lights />
 				<Lights />
 				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight1">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight2">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight3">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingRight4">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingLast1">
+				<Lights />
+				<Lights />
+
+				<Lights />
+			</div>
+			<div className="buildingLast2">
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingLast3">
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingLast4">
 				<Lights />
 				<Lights />
 				<Lights />
