@@ -7,12 +7,12 @@ export const Lights = () => {
 		let randomNumber = Math.floor(Math.random() * 2) + 1;
 		switch (randomNumber) {
 			case 1:
-				setLight("black");
-				return "black";
+				setLight("rgb(63, 62, 62)");
+				return "rgb(63, 62, 62)";
 
 			case 2:
-				setLight("yellow");
-				return "yellow";
+				setLight("white");
+				return "white";
 
 			default:
 				break;
@@ -24,7 +24,7 @@ export const Lights = () => {
 			setTimeout(() => {
 				randomLight();
 				setCounter(counter + 1);
-			}, 20);
+			}, 2000);
 		},
 		[light, counter]
 	);
@@ -35,3 +35,24 @@ export const Lights = () => {
 		</span>
 	);
 };
+
+/*export const Lights = () => {
+	const [counter, setCounter] = useState(0);
+
+	const [color, setColor] = useState("grey");
+
+	return (
+		<span style={{ color: color }}>
+			<i
+				className="windows fas fa-square"
+				onClick={() => {
+					if (color === "grey") {
+						setColor("white");
+					} else {
+						setColor("grey");
+					}
+				}}
+			/>
+		</span>
+	);
+};*/
