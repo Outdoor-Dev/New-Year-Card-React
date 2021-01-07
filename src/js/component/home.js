@@ -18,6 +18,42 @@ export function Home() {
 			</video>
 			<img className="city" src={city} />
 
+			<div className="firstBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="firstBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="firstBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="firstBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="firstBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="firstBuilding">
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+
 			<div className="tallBuilding1">
 				<Lights />
 				<Lights />
@@ -183,6 +219,15 @@ export function Home() {
 				<Lights />
 				<Lights />
 
+				<Lights />
+			</div>
+			<div className="buildingLast">
+				<Lights />
+				<Lights />
+				<Lights />
+			</div>
+			<div className="buildingLast">
+				<Lights />
 				<Lights />
 			</div>
 			<div className="buildingLast">
